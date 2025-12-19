@@ -1,3 +1,9 @@
+# Fix emoji fonts problem.
+
+The IA advance has unprecedent capabilities. Google Gemini fix the emoji character problem of st.
+
+Give me a huge from Chile, Gonzalo Oviedo L.
+
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
